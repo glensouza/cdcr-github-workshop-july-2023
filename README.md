@@ -2,9 +2,10 @@
 
 ## Introductions
 
-- Name: Glen Souza <https://www.linkedin.com/in/glensouza>
+- Name: Glen Souza
+  - LinkedIn: <https://www.linkedin.com/in/glensouza>
+  - GitHub: @glensouza <https://github.com/glensouza>
 - Title: Principal Cloud Solution Architect
-- My GitHub: @glensouza <https://github.com/glensouza>
 - Who is this for?
   - Developers
   - Architects
