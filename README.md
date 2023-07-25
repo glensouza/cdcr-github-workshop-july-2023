@@ -5,6 +5,12 @@
 - Name: Glen Souza <https://www.linkedin.com/in/glensouza>
 - Title: Principal Cloud Solution Architect
 - My GitHub: @glensouza <https://github.com/glensouza>
+- Who is this for?
+  - Developers
+  - Architects
+  - DevOps Engineers
+  - IT Pros
+  - Anyone who wants to learn more about GitHub
 
 ## Prerequisites for this training
 
