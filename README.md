@@ -75,6 +75,9 @@ Show PDF
 - Advanced GitHub features
   - Branching strategies (***PPT #2***)
   - [Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
+  - GitHub Pages
+    - Creating a GitHub Pages site
+    - Hosting a website on GitHub Pages
 - Q&A
 - [More GitHub LevelUp Resources](#more-github-levelup-resources)
 
@@ -85,9 +88,6 @@ Show PDF
   - Setting up CI/CD with GitHub Actions (***PPT #4***)
     - Creating a GitHub action
     - Running a GitHub action
-- GitHub Pages
-  - Creating a GitHub Pages site
-  - Hosting a website on GitHub Pages
 - GitHub Packages
   - Creating a GitHub Package
   - Publishing a GitHub Package
