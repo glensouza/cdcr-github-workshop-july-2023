@@ -83,25 +83,19 @@ Show PDF
 
 ### Day 2
 
+- Issue template
 - Continuous integration and continuous delivery (CI/CD)
   - What is CI/CD? (***PPT #3***)
   - Setting up CI/CD with GitHub Actions (***PPT #4***)
     - Creating a GitHub action
     - Running a GitHub action
-- GitHub Packages
-  - Creating a GitHub Package
-  - Publishing a GitHub Package
-  - Using a GitHub Package
+    - GitHub Packages
+      - Creating a GitHub Package
+      - Publishing a GitHub Package
 - Lunch (*1 hour*)
 - GitHub extensions
   - IDE extensions
   - Third-party tools
-- Advanced GitHub commands
-  - Rebase
-  - Stash
-  - Cherry-pick
-  - Squash
-- BREAK (*15 minutes*)
 - GitHub Advanced Security (***PPT #5***)
   - Dependabot
   - Code scanning
@@ -117,5 +111,8 @@ Show PDF
 - [GitHub Actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5)
 - [GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey)
 - [GitHub Administration](https://learn.microsoft.com/en-us/users/githubtraining/collections/mom7u1gzjdxw03)
+
+## Roadmaps
+
 - [GitHub Roadmap](https://github.com/github/roadmap)
 - [Azure DevOps Roadmap](https://aka.ms/AzureDevOpsRoadmap)
