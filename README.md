@@ -88,20 +88,13 @@ Show PDF
   - Setting up CI/CD with GitHub Actions (***PPT #4***)
     - Creating a GitHub action
     - Running a GitHub action
-- GitHub Packages
-  - Creating a GitHub Package
-  - Publishing a GitHub Package
-  - Using a GitHub Package
+    - GitHub Packages
+      - Creating a GitHub Package
+      - Publishing a GitHub Package
 - Lunch (*1 hour*)
 - GitHub extensions
   - IDE extensions
   - Third-party tools
-- Advanced GitHub commands
-  - Rebase
-  - Stash
-  - Cherry-pick
-  - Squash
-- BREAK (*15 minutes*)
 - GitHub Advanced Security (***PPT #5***)
   - Dependabot
   - Code scanning
