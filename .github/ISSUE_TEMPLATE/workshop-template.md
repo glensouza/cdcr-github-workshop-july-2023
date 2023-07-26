@@ -1,8 +1,7 @@
 ---
-name: Bootcamp Template
+name: Workshop Template
 about: Testing out templates
-title: 'Bootcamp - '
-labels: bc-backend
+title: 'Workshop - '
 assignees: glensouza
 
 ---
