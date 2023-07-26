@@ -83,6 +83,7 @@ Show PDF
 
 ### Day 2
 
+- Issue template
 - Continuous integration and continuous delivery (CI/CD)
   - What is CI/CD? (***PPT #3***)
   - Setting up CI/CD with GitHub Actions (***PPT #4***)
